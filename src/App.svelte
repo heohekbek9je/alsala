@@ -106,5 +106,5 @@
 <!-- Developed by and github button -->
 {#if !is_getting_data && show_developed_by}
   <Github/>
-  <h4 in:blur={{duration:1000,delay:500}} class="fixed whitespace-nowrap bottom-8 left-1/2 text-white text-lg md:text-2xl -translate-x-1/2 z-50"><a href="" target="_blank" class="hover:underline"></a></h4>
+  <h4 in:blur={{duration:1000,delay:500}} class="fixed whitespace-nowrap bottom-8 left-1/2 text-white text-lg md:text-2xl -translate-x-1/2 z-50">.<a href="https://t.me/H_M_Dr" target="_blank" class="hover:underline">.</a> ♥</h4>
 {/if}
